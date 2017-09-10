@@ -2,4 +2,4 @@
 
 dockererase.sh - Quickly stops and deletes all docker images
 
-Commandline runtime: source <(curl -s https://peer.boxscale.io/docker/dockererase.sh)
+commandline runtime: source <(curl -s https://peer.boxscale.io/docker/dockererase.sh)
