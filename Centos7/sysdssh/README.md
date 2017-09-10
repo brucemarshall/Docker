@@ -13,3 +13,5 @@ Above command keeps ssh inside container. So if in container you can ssh user@co
 If you add -p 22:22 to above docker run command 
 
 this will export port 22 to hosts. Then you can ssh user@localhost
+
+If you would like to reset the sshkeys run /opt/resetkeys.sh inside container
