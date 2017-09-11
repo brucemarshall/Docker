@@ -7,3 +7,7 @@ commandline runtime: source <(curl -s https://peer.boxscale.io/docker/dockereras
 docker-install-CentOS7.sh - Docker Install CentOS7
 
 commandline runtime: source <(curl -s https://peer.boxscale.io/docker/docker-install-CentOS7.sh)
+
+docker-install-Ubuntu.sh - Docker Install Ubuntu
+
+commandline runtime: source <(curl -s https://peer.boxscale.io/docker/docker-install-Ubuntu.sh)
